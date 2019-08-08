@@ -1,6 +1,6 @@
 
 
-module Riemann
+module ExactRiemannEuler
 
 export W, SolveDistr
 
